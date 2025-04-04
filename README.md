@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 Desenvolvedor back-end apaixonado por resolver problemas.
-[![Vídeo Tutorial - Clique para [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
+ [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
 ## Foco Técnico:
 Desenvolver sistemas que simplifiquem e melhorem a experiência dos usuários.
 
