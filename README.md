@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 Desenvolvedor back-end apaixonado por resolver problemas.
- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/dQw4w9WgXcQ)
+   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" href="https://youtu.be/dQw4w9WgXcQ" width="52" height="40" alt="youtube logo"  />
 ## Foco Técnico:
 Desenvolver sistemas que simplifiquem e melhorem a experiência dos usuários.
 
