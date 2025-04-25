@@ -18,7 +18,7 @@ O que mais me motiva na programação é acompanhar o surgimento de novas tecnol
 
 ### 💻 Tecnologias Principais
 
-[![My Skills](https://skillicons.dev/icons?i=php,nodejs,mysql,java,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,mysql,git)](https://skillicons.dev)
 
 ### 🔧 Outras Ferramentas que ja usei
 [![My Skills](https://skillicons.dev/icons?i=js,html,c,)](https://skillicons.dev)
