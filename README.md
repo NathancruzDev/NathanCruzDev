@@ -3,7 +3,6 @@
 ## 🚀 Sobre Mim
 Desenvolvedor back-end apaixonado por resolver problemas.
 <br>
-[![YouTube](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg)](https://youtu.be/dQw4w9WgXcQ)
 ## Foco Técnico:
 Desenvolver sistemas que simplifiquem e melhorem a experiência dos usuários.
 
@@ -18,26 +17,18 @@ O que mais me motiva na programação é acompanhar o surgimento de novas tecnol
 
 ### 💻 Tecnologias Principais
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,mysql,git)](https://skillicons.dev)
 
 ### 🔧 Outras Ferramentas que ja usei
 [![My Skills](https://skillicons.dev/icons?i=js,html,c,)](https://skillicons.dev)
 
 ---
 
-## 📌 Projetos Destacados
+## 📌 Projetos Destacados:
+- [Projeto de cálculo de gastos por rota.](https://github.com/NathancruzDev/Csv)
 - [Projeto estoque(em desenvolvimento)](https://github.com/NathancruzDev/estoque_repository)
 - [Biblioteca C](https://github.com/NathancruzDev/LibraryC)
 
 ## 📬 Contato
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nathan-leite-da-cruz-sangy-2bb363329/)
 
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/nthnlcs)
-
-
-
-
-## Referência
-
-
- - [Skill Icons](https://skillicons.dev/)
